@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>C&#x27;est Việt</title>
+    <link href="https://cestviet.github.io/cestviet/feed.xml" rel="self" />
+    <link href="https://cestviet.github.io/cestviet" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Vietnamien et fier de l&#x27;être</name>
+    </author>
+    <id>https://cestviet.github.io/cestviet</id>
+
+</feed>
