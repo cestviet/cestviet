@@ -3,7 +3,7 @@
     <title>C&#x27;est Việt</title>
     <link href="https://cestviet.github.io/cestviet/feed.xml" rel="self" />
     <link href="https://cestviet.github.io/cestviet" />
-    <updated>2026-11-15T11:11:26+07:00</updated>
+    <updated>2026-11-15T11:47:31+07:00</updated>
     <author>
         <name>Vietnamien et fier de l&#x27;être</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://cestviet.github.io/cestviet/life-choices-are-money-choices/"/>
         <id>https://cestviet.github.io/cestviet/life-choices-are-money-choices/</id>
+        <media:content url="https://cestviet.github.io/cestviet/media/posts/3/YourMoneyYourLifePlanning1.jpg.webp" medium="image" />
             <category term="Money choices"/>
 
         <updated>2026-11-14T15:19:39+07:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://cestviet.github.io/cestviet/media/posts/3/YourMoneyYourLifePlanning1.jpg.webp" alt="" />
                     <div class="qwen-markdown-paragraph" dir="ltr">
 <div class="qwen-markdown-paragraph" dir="ltr">
 <div dir="ltr">
@@ -93,6 +95,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://cestviet.github.io/cestviet/media/posts/3/YourMoneyYourLifePlanning1.jpg.webp" class="type:primaryImage" alt="" /></p>
                 <div class="qwen-markdown-paragraph" dir="ltr">
 <div class="qwen-markdown-paragraph" dir="ltr">
 <div dir="ltr">
